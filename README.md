@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Salim;Full-Stack+Developer;2nd+year+CS+%40La+Rochelle" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Salim;Full-Stack+Developer;3rd+year+CS+%40La+Rochelle" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,25 +14,39 @@ CS student at La Rochelle University. Passionate about full-stack development an
 
 *Click an image to open its repository.*
 
-| | |
-|:---:|:---|
-| <a href="https://github.com/zidanesalim/nimbus-dashboard"><img src="images/NimbusIcon.png" width="200"/></a> | Weather dashboard to check forecasts and current conditions for any city using live weather data. |
-| <a href="https://github.com/zidanesalim/currency-converter"><img src="images/CurrencyConverterIcon.png" width="200"/></a> | Simple tool for rapid conversion among major currencies using live exchange rates. |
-| | |
-
+|                                                           Name                                                            | Description                                                                                |
+|:-------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------|
+|           <a href="https://github.com/zidanesalim/analyzr"><img src="images/analyzr_icon.png" width="200"/></a>           | CI/CD skills suite to set up pipelines with GitLab CI, GitHub Actions, or Azure Pipelines. |
+| <a href="https://github.com/zidanesalim/currency-converter"><img src="images/CurrencyConverterIcon.png" width="200"/></a> | Simple tool for rapid conversion among major currencies using live exchange rates.         |
 
 ## Technical Skills
 
-| | |
-|:---:|:---|
-| **Frontend** | <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vue.js-0f172a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/> |
-| **Backend** | <img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4"/> <img src="https://img.shields.io/badge/Symfony-0f172a?style=for-the-badge&logo=symfony&logoColor=white"/> <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/> <img src="https://img.shields.io/badge/Spring_Boot-0f172a?style=for-the-badge&logo=springboot&logoColor=6DB33F"/> |
-| **Databases** | <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=FF4438"/> |
-| **Systems** | <img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/> <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Bash-0f172a?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/> |
-| **Cloud & DevOps** | <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2CA5E0"/> <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624"/> <img src="https://custom-icon-badges.demolab.com/badge/AWS-0f172a?style=for-the-badge&logo=aws&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/> |
-| **Tools** | <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E"/> <img src="https://img.shields.io/badge/Obsidian-0f172a?style=for-the-badge&logo=obsidian&logoColor=7C3AED"/> |
-| | |
-
+<table>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vue.js-0f172a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/Astro-0f172a?style=for-the-badge&logo=astro&logoColor=FF5D01"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td><img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4"/> <img src="https://img.shields.io/badge/Symfony-0f172a?style=for-the-badge&logo=symfony&logoColor=white"/> <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/> <img src="https://img.shields.io/badge/Spring_Boot-0f172a?style=for-the-badge&logo=springboot&logoColor=6DB33F"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases</strong></td>
+    <td><img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=FF4438"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Systems</strong></td>
+    <td><img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/> <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Bash-0f172a?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Cloud & DevOps</strong></td>
+    <td><img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2CA5E0"/> <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624"/> <img src="https://custom-icon-badges.demolab.com/badge/AWS-0f172a?style=for-the-badge&logo=aws&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools</strong></td>
+    <td><img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E"/> <img src="https://img.shields.io/badge/Obsidian-0f172a?style=for-the-badge&logo=obsidian&logoColor=7C3AED"/></td>
+  </tr>
+</table>
 
 ## Socials
 
