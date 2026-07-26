@@ -17,7 +17,6 @@ CS student at La Rochelle University. Passionate about full-stack development an
 |                                                           Name                                                            | Description                                                                                |
 |:-------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------|
 |           <a href="https://github.com/zidanesalim/analyzr"><img src="images/analyzr_icon.png" width="200"/></a>           | CI/CD skills suite to set up pipelines with GitLab CI, GitHub Actions, or Azure Pipelines. |
-| <a href="https://github.com/zidanesalim/currency-converter"><img src="images/CurrencyConverterIcon.png" width="200"/></a> | Simple tool for rapid conversion among major currencies using live exchange rates.         |
 
 ## Technical Skills
 
