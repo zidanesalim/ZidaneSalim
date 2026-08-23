@@ -43,7 +43,7 @@ CS student at La Rochelle University. Passionate about full-stack development an
   </tr>
   <tr>
     <td align="center"><strong>Tools</strong></td>
-    <td><img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E"/> <img src="https://img.shields.io/badge/Obsidian-0f172a?style=for-the-badge&logo=obsidian&logoColor=7C3AED"/></td>
+    <td><img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E"/> <img src="https://img.shields.io/badge/Obsidian-0f172a?style=for-the-badge&logo=obsidian&logoColor=7C3AED"/> <img src="https://img.shields.io/badge/Trello-0f172a?style=for-the-badge&logo=trello&logoColor=0079BF"/></td>
   </tr>
 </table>
 
