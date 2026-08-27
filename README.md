@@ -9,15 +9,6 @@
 CS student at La Rochelle University. Passionate about full-stack development and 3D Modeling.
 - Interested in machine learning & automation
 
-
-## Featured Projects
-
-*Click an image to open its repository.*
-
-|                                                           Name                                                            | Description                                                                                |
-|:-------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------|
-|           <a href="https://github.com/zidanesalim/analyzr"><img src="images/analyzr_icon.png" width="200"/></a>           | CI/CD skills suite to set up pipelines with GitLab CI, GitHub Actions, or Azure Pipelines. |
-
 ## Technical Skills
 
 <table>
